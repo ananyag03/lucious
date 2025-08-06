@@ -17,7 +17,7 @@ This project analyzes flight data to predict high-risk flights (delays over 3 ho
    ```
 
 2. **Prepare your data:**
-   - Place your `data.csv` file in the project directory.
+   - Download the dataset from : https://drive.google.com/file/d/1o3v-Nzp3uKwKoE65QJuiJoDPN_KLR9xe/view?usp=sharing .
    - Ensure it contains columns: `Airline`, `Departure`, `Arrival`, `delay_time`, `flight_date`, `std_hour`.
 
 3. **Run the analysis:**
